@@ -1,4 +1,4 @@
-module github.com/juju/gomaasapi/v2
+module github.com/boxjan/gomaasapi/v2
 
 go 1.17
 
